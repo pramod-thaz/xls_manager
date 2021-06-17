@@ -1,0 +1,9 @@
+/* Insert global CSS here if you like */
+
+.fade-in {
+    animation: fadeIn ease 500ms;
+}
+@keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
